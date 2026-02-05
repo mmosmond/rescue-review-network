@@ -1,3 +1,5 @@
+Author: Léonard Dekens
+
 The main code is to produce the network figure is network_citations_analysis_evol_rescue.py
 
 The auxiliary code is tools_network_citation_analysis_evol_rescue.py
