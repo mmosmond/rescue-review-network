@@ -1,17 +1,17 @@
 Author: Léonard Dekens
 
-The main code is to produce the network figure is network_citations_analysis_evol_rescue.py
+The main code to produce the network figure is 'network_citations_analysis_evol_rescue.py'.
 
-The auxiliary code is tools_network_citation_analysis_evol_rescue.py
+The auxiliary code is 'tools_network_citation_analysis_evol_rescue.py'.
 
-The main code to produce the figure about cumulative number of papers published accross years is publications_per_year_per_community_evol_rescue.py. It requires some of the output of network_citations_analysis_evol_rescue.py to run.
+The main code to produce the cumulative number of papers figure is 'publications_per_year_per_community_evol_rescue.py'. It requires some of the output of 'network_citations_analysis_evol_rescue.py' to run.
 
-The output of these codes is stored in the folder Network.
+The output of these codes is stored in the folder 'Network'.
 
-The code build_matrix_citations_from_WOS_evol_rescue.py builds the matrices of citations located in the folder Matrix_citations from information obtained on Web of Science.
+The code 'build_matrix_citations_from_WOS_evol_rescue.py' builds the matrices of citations located in the folder 'Matrix citations' from information obtained on Web of Science.
 
-The folder Matrix_citations contains 3 csv file that contain the same square binary matrix of 0 and 1. Columns and rows are index by the titles (authors, publication year) of the papers involved in the network and the (i,j) entry is 1 iff paper i cites paper j. This folder and its content are necessary to run figure is network_citations_analysis_evol_rescue.py.
+The folder 'Matrix citations' contains 3 csv files that contain the same square binary matrix of 0s and 1s. Columns and rows are indexed by the titles (authors, publication year) of the papers in the network and the (i,j) entry is 1 iff paper i cites paper j. This folder and its contents are necessary to run 'network_citations_analysis_evol_rescue.py'.
 
-The folder Subsections contains 13 csv files of hte type "filter_subsection", corresponding to the 13 subsections of the manuscript of Sections 4 and 5. Each contains a vector of 1 and 0 indexed by the papers in the network, 1 indicating that the paper is in the focal subsection. The names_subsection.txt file contains the names of the subsections. This folder and its content are necessary to run network_citations_analysis_evol_rescue.py
+The folder 'Subsections' contains 13 csv files of the type "filter_subsection", corresponding to the 13 subsections of sections 4 and 5 in the manuscript. Each contains a vector of 0s and 1s indexed by the papers in the network, 1 indicating that the paper is in the focal subsection. The 'names_subsection.txt' file contains the names of the subsections. This folder and its content are necessary to run 'network_citations_analysis_evol_rescue.py'.
 
-The folder WOS File contains summary files of the papers in the sections 4 and 5 of the manuscript, downloaded on WOS. The .bib file contains in particular the reference list of every paper. The .csv file contains macro information about the papers in an easily accessible way. These two files have been modified to fix issues such as missing or multiple DOIs (as the DOIs are used to establish the matrices of citations), so they are not original report from WOS.
+The folder 'WOS files' contains summary files of the papers in sections 4 and 5 of the manuscript, downloaded from WOS. The .bib file contains in particular the reference list of every paper. The .csv file contains macro information about the papers in an easily accessible way. These two files have been modified to fix issues such as missing or multiple DOIs (as the DOIs are used to establish the matrices of citations), so they are not the original report from WOS.
