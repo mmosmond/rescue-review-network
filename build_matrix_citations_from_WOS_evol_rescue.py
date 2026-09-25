@@ -16,13 +16,13 @@ path_wos=workdir+'/WOS files/'
 
 #### 1. build dictionnary with wos identification number + title + DOI from csv file
 
-WOS_csv_file = path_wos+"WOS_full_reports_from_request_WOS_titles_20260127.csv"
+WOS_csv_file = path_wos+"WOS_full_reports_from_request_WOS_titles_20260922.csv"
 WOS_df = pd.read_csv(WOS_csv_file)
-WOS_title_DOI =WOS_df[['Article Title', 'Authors', 'Publication Year', 'DOI', 'WOS ID']].sort_values(by=['WOS ID']) #### Sort the dictionnary according to the WOS ID column
+WOS_title_DOI =WOS_df[['Authors', 'Article Title', 'Publication Year', 'DOI', 'WOS ID']].sort_values(by=['WOS ID']) #### Sort the dictionnary according to the WOS ID column
 
 
 ### 2. build Cited reference list for all paper from WOS full report file .bib
-WOS_bib_file = open(path_wos+'WOS_full_reports_from_request_WOS_titles_20260127.bib', 'r').read()
+WOS_bib_file = open(path_wos+'WOS_full_reports_from_request_WOS_titles_20260922.bib', 'r').read()
 
 ### Build sorted list of WOS ID and list of cited references (with same order)
 motif_WOS = '{ WOS'
@@ -30,8 +30,13 @@ start_WOS = [m.start() + 2 for m in re.finditer(motif_WOS, WOS_bib_file)] #### F
 # To be able to compare with the previous dictionary, sort the list_WOS_ID, and store the sorting indexes in list_index
 list_WOS_ID, list_index = np.unique([WOS_bib_file[x : (x + WOS_bib_file[x:].find(','))] for x in start_WOS], return_index=True) ### Extract the string between each element of start_WOS and the first following occurence of a coma
 list_WOS_ID = list(list_WOS_ID) ## convert to list, as np.unique used in previous line returns an array
+### some irrelevant papers are included in WOS.bib and thus in list_WOS_ID, so it is needed filter the relevant ones (in list_WOS_ID_from_csv defined from the WOS.csv file) to get the list_index_corrected
+list_WOS_ID_from_csv = list(WOS_title_DOI['WOS ID'])
+idx_WOS_ID_true = [idx[0] for idx in [([idx for idx, val in enumerate(list_WOS_ID) if val == sub]) for sub in list_WOS_ID_from_csv]] ### get the index of the relevant papers comparing WOS IDs between list_WOS_ID (from .bib) and list_WOS_ID_from_csv (from .csv) 
+list_WOS_ID_corrected = [list_WOS_ID[x] for x in idx_WOS_ID_true] 
+list_index_corrected= [list_index[x] for x in idx_WOS_ID_true]
 # reorder start_WOS according to the way list_WOS_ID is sorted
-start_WOS_sorted = [start_WOS[list_index[x]] for x in range(len(list_index))]
+start_WOS_sorted = [start_WOS[list_index_corrected[x]] for x in range(len(list_index_corrected))]
 
 ## Extract the CR for each paper in the order of the WOS ID (through start_WOS_sorted)
 motif_CR = "Cited-References = {"

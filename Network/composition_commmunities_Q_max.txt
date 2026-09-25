@@ -1,509 +1,560 @@
 -------------------COMMUNITY 1----------------------
-   6: Evolutionary dynamics of escape from biomedical intervention, Iwasa, Y; Michor, F; Nowak, MA, 2003, number of citations within network = 2
+   2: Evolution of genetic variability and the advantage of sex and recombination in changing environments, Bürger, R, 1999, number of citations within network = 11
 
-   12: Population extinction and the genetics of adaptation, Orr, HA; Unckless, RL, 2008, number of citations within network = 65
+   15: Evolutionary dynamics as a component of stage-structured matrix models:: An example using Trillium grandiflorum, Knight, TM; Barfield, M; Holt, RD, 2008, number of citations within network = 5
 
-   27: The evolution of plasmid-carried antibiotic resistance, Svara, F; Rankin, DJ, 2011, number of citations within network = 2
+   17: TO AGE, TO DIE: PARITY, EVOLUTIONARY TRACKING AND COLE'S PARADOX, Zeineddine, M; Jansen, VAA, 2009, number of citations within network = 4
 
-   28: On the Fixation Process of a Beneficial Mutation in a Variable Environment, Uecker, H; Hermisson, J, 2011, number of citations within network = 25
+   18: Species' Range: Adaptation in Space and Time, Polechová, J; Barton, N; Marion, G, 2009, number of citations within network = 18
 
-   38: The probability of evolutionary rescue: towards a quantitative comparison between theory and evolution experiments, Martin, G; Aguilée, R; Ramsayer, J; Kaltz, O; Ronce, O, 2013, number of citations within network = 34
+   19: Demographic and Genetic Constraints on Evolution, Gomulkiewicz, R; Houle, D, 2009, number of citations within network = 24
 
-   44: Evolutionary Rescue in Structured Populations, Uecker, H; Otto, SP; Hermisson, J, 2014, number of citations within network = 34
+   20: Genetics, adaptation, and invasion in harsh environments, Gomulkiewicz, R; Holt, RD; Barfield, M; Nuismer, SL, 2010, number of citations within network = 19
 
-   50: PLASMIDS AND EVOLUTIONARY RESCUE BY DRUG RESISTANCE, Tazzyman, SJ; Bonhoeffer, S, 2014, number of citations within network = 6
+   22: Increased mortality can promote evolutionary adaptation of forest trees to climate change, Kuparinen, A; Savolainen, O; Schurr, FM, 2010, number of citations within network = 7
 
-   51: The Population Genetics of Evolutionary Rescue, Orr, HA; Unckless, RL, 2014, number of citations within network = 37
+   23: WHEN DO ADAPTIVE PLASTICITY AND GENETIC EVOLUTION PREVENT EXTINCTION OF A DENSITY-REGULATED POPULATION?, Chevin, LM; Lande, R, 2010, number of citations within network = 29
 
-   61: Does High-Dose Antimicrobial Chemotherapy Prevent the Evolution of Resistance?, Day, T; Read, AF, 2016, number of citations within network = 7
+   24: Adaptation, Plasticity, and Extinction in a Changing Environment: Towards a Predictive Theory, Chevin, LM; Lande, R; Mace, GM, 2010, number of citations within network = 35
 
-   62: The Role of Recombination in Evolutionary Rescue, Uecker, H; Hermisson, J, 2016, number of citations within network = 23
+   27: Evolution in Stage-Structured Populations, Barfield, M; Holt, RD; Gomulkiewicz, R, 2011, number of citations within network = 10
 
-   72: Evolutionary rescue in randomly mating, selfing, and clonal populations, Uecker, H, 2017, number of citations within network = 8
+   28: Introgressive hybridization as a mechanism for species rescue, Baskett, ML; Gomulkiewicz, R, 2011, number of citations within network = 2
 
-   75: Soft Selective Sweeps in Evolutionary Rescue, Wilson, BA; Pennings, PS; Petrov, DA, 2017, number of citations within network = 12
+   33: How do genetic correlations affect species range shifts in a changing environment?, Duputié, A; Massol, F; Chuine, I; Kirkpatrick, M; Ronce, O, 2012, number of citations within network = 12
 
-   83: Evolutionary rescue of a parasite population by mutation rate evolution, Greenspoon, PB; Mideo, N, 2017, number of citations within network = 1
+   44: GENETIC CONSTRAINTS ON ADAPTATION TO A CHANGING ENVIRONMENT, Chevin, LM, 2013, number of citations within network = 15
 
-   89: Evolutionary Rescue over a Fitness Landscape, Anciaux, Y; Chevin, LM; Ronce, O; Martin, G, 2018, number of citations within network = 18
+   51: Between migration load and evolutionary rescue: dispersal, adaptation and the response of spatially structured populations to environmental change, Bourne, EC; Bocedi, G; Travis, JMJ; Pakeman, RJ; Brooker, RW; Schiffers, K, 2014, number of citations within network = 8
 
-   96: Evolutionary Rescue Through Partly Heritable Phenotypic Variability, Carja, O; Plotkin, JB, 2019, number of citations within network = 4
+   55: MALADAPTATION AS A SOURCE OF SENESCENCE IN HABITATS VARIABLE IN SPACE AND TIME, Cotto, O; Ronce, O, 2014, number of citations within network = 4
 
-   105: Population persistence under high mutation rate: From evolutionary rescue to lethal mutagenesis, Anciaux, Y; Lambert, A; Ronce, O; Roques, L; Martin, G, 2019, number of citations within network = 7
+   56: FISHER'S GEOMETRIC MODEL WITH A MOVING OPTIMUM, Matuszewski, S; Hermisson, J; Kopp, M, 2014, number of citations within network = 8
 
-   113: Genetic Paths to Evolutionary Rescue and the Distribution of Fitness Effects Along Them, Osmond, MM; Otto, SP; Martin, G, 2020, number of citations within network = 10
+   57: Density dependence and microevolution interactively determine effects of phenology mismatch on population dynamics, Reed, TE; Gienapp, P; Visser, ME, 2015, number of citations within network = 0
 
-   115: The Population Genetics of Evolutionary Rescue in Diploids: X Chromosomal versus Autosomal Rescue, Unckless, RL; Orr, HA, 2020, number of citations within network = 0
+   61: Catch Me if You Can: Adaptation from Standing Genetic Variation to a Moving Phenotypic Optimum, Matuszewski, S; Hermisson, J; Kopp, M, 2015, number of citations within network = 8
 
-   117: Evolutionary tracking is determined by differential selection on demographic rates and density dependence, Vinton, AC; Vasseur, DA, 2020, number of citations within network = 4
+   67: Pollen dispersal slows geographical range shift and accelerates ecological niche shift under climate change, Aguilée, R; Raoul, G; Rousset, F; Ronce, O, 2016, number of citations within network = 4
 
-   120: When does gene flow facilitate evolutionary rescue?, Tomasini, M; Peischl, S, 2020, number of citations within network = 5
+   68: Predicting evolutionary rescue via evolving plasticity in stochastic environments, Ashander, J; Chevin, LM; Baskett, ML, 2016, number of citations within network = 15
 
-   121: Genetic Signatures of Evolutionary Rescue by a Selective Sweep, Osmond, MM; Coop, G, 2020, number of citations within network = 1
+   69: Global change, life-history complexity and the potential for evolutionary rescue, Marshall, DJ; Burgess, SC; Connallon, T, 2016, number of citations within network = 4
 
-   122: Evolutionary Rescue and Drug Resistance on Multicopy Plasmids, Santer, M; Uecker, H, 2020, number of citations within network = 3
+   71: Evolutionary rescue in novel environments: towards improving predictability, Barfield, M; Holt, RD, 2016, number of citations within network = 11
 
-   126: The fundamentals of cultural adaptation: implications for human adaptation, Fogarty, L; Kandler, A, 2020, number of citations within network = 0
+   72: Predicting patterns of long-term adaptation and extinction with population genetics, Bertram, J; Gomez, K; Masel, J, 2017, number of citations within network = 2
 
-   127: Adapt or Perish: Evolutionary Rescue in a Gradually Deteriorating Environment, Marrec, L; Bitbol, AF, 2020, number of citations within network = 10
+   73: THE EFFECT OF CLIMATE SHIFT ON A SPECIES SUBMITTED TO DISPERSION, EVOLUTION, GROWTH AND NONLOCAL COMPETITION, Alfaro, M; Berestycki, H; Raoul, G, 2017, number of citations within network = 1
 
-   135: The Effect of Habitat Choice on Evolutionary Rescue in Subdivided Populations, Czuppon, P; Blanquart, F; Uecker, H; Débarre, F, 2021, number of citations within network = 7
+   77: A dynamic eco-evolutionary model predicts slow response of alpine plants to climate warming, Cotto, O; Wessely, J; Georges, D; Klonner, G; Schmid, M; Dullinger, S; Thuiller, W; Guillaume, F, 2017, number of citations within network = 9
 
-   145: A branching process model of evolutionary rescue, Azevedo, RBR; Olofsson, P, 2021, number of citations within network = 0
+   81: Extinction Risk and Lack of Evolutionary Rescue under Resource Depletion or Area Reduction, Engen, S; Sæther, BE, 2017, number of citations within network = 1
 
-   148: Hazardous Loss of Genetic Diversity through Selective Sweeps in Asexual Populations, Wahl, LM; Tanaka, MM, 2022, number of citations within network = 0
+   86: Effects of Clonal Reproduction on Evolutionary Lag and Evolutionary Rescue, Orive, ME; Barfield, M; Fernandez, C; Holt, RD, 2017, number of citations within network = 10
 
-   150: Dominance shifts increase the likelihood of soft selective sweeps, Muralidhar, P; Veller, C, 2022, number of citations within network = 0
+   88: The genetics of phenotypic plasticity. XV. Genetic assimilation, the Baldwin effect, and evolutionary rescue, Scheiner, SM; Barfield, M; Holt, RD, 2017, number of citations within network = 2
 
-   153: Surviving environmental change: when increasing population size can increase extinction risk, Tanaka, MM; Wahl, LM, 2022, number of citations within network = 3
+   89: Stochastic Evolutionary Demography under a Fluctuating Optimum Phenotype, Chevin, LM; Cotto, O; Ashander, J, 2017, number of citations within network = 10
 
-   154: The role of spatial structure in multi-deme models of evolutionary rescue, Tomasini, M; Peischl, S, 2022, number of citations within network = 2
+   90: An evolutionary tipping point in a changing environment, Osmond, MM; Klausmeier, CA, 2017, number of citations within network = 9
 
-   158: The phoenix hypothesis of speciation, Yamaguchi, R; Wiley, B; Otto, SP, 2022, number of citations within network = 3
+   98: Phenotypic lag and population extinction in the moving-optimum model: insights from a small-jumps limit, Kopp, M; Nassar, E; Pardoux, E, 2018, number of citations within network = 0
 
-   162: A theory of resistance to multiplexed gene drive demonstrates the significant role of weakly deleterious natural genetic variation, Khatri, BS; Burt, A, 2022, number of citations within network = 0
+   105: Surfing on the seascape: Adaptation in a changing environment, Trubenová, B; Krejca, MS; Lehre, PK; Kötzing, T, 2019, number of citations within network = 2
 
-   165: Promoting extinction or minimizing growth? The impact of treatment on trait trajectories in evolving populations, Raatz, M; Traulsen, A, 2023, number of citations within network = 1
+   106: Optimal investment to enable evolutionary rescue, Ashander, J; Thompson, LC; Sanchirico, JN; Baskett, ML, 2019, number of citations within network = 1
 
-   169: The effects of selfing on multi-step adaptation, Xu, KY, 2023, number of citations within network = 0
+   109: Implications of existing local (mal)adaptations for ecological forecasting under environmental change, Walters, RJ; Berger, D, 2019, number of citations within network = 1
 
-   173: Evolutionary rescue via niche construction: Infrequent construction can prevent post-invasion extinction, Longcamp, A; Draghi, J, 2023, number of citations within network = 1
+   112: Maladaptive Shifts in Life History in a Changing Environment*, Cotto, O; Sandell, L; Chevin, LM; Ronce, O, 2019, number of citations within network = 6
 
-   178: The contribution of evolvability to the eco-evolutionary dynamics of competing species, Bukkuri, A; Pienta, KJ; Amend, SR; Austin, RH; Hammarlund, EU; Brown, JS, 2023, number of citations within network = 0
+   116: Evolutionary Rescue in a Linearly Changing Environment: Limits on Predictability, Orive, ME; Holt, RD; Barfield, M, 2019, number of citations within network = 5
 
-   180: Evolutionary rescue on genotypic fitness landscapes, Wahl, LM; Campos, PRA, 2023, number of citations within network = 3
+   118: The genetics of phenotypic plasticity. XVII. Response to climate change, Scheiner, SM; Barfield, M; Holt, RD, 2020, number of citations within network = 3
 
-   182: Limits to evolutionary rescue by conjugative plasmids, Geoffroy, F; Uecker, H, 2023, number of citations within network = 2
+   132: Environmental fluctuations can promote evolutionary rescue in high-extinction-risk scenarios, Peniston, JH; Barfield, M; Gonzalez, A; Holt, RD, 2020, number of citations within network = 6
 
-   193: Understanding evolutionary rescue and parallelism in response to environmental stress, Freitas, O; Campos, PRA, 2024, number of citations within network = 1
+   140: The Genetic Architecture of Fitness Drives Population Viability during Rapid Environmental Change, Kardos, M; Luikart, G, 2021, number of citations within network = 1
 
-   194: The role of epistasis in evolutionary rescue, Freitas, O; Campos, PRA, 2024, number of citations within network = 1
+   141: Environmental fluctuations dampen the effects of clonal reproduction on evolutionary rescue, Peniston, JH; Barfield, M; Holt, RD; Orive, ME, 2021, number of citations within network = 4
 
-   202: Evolutionary rescue of bacterial populations by heterozygosity on multicopy plasmids, Dewan, I; Uecker, H, 2025, number of citations within network = 0
+   145: Is Evolution in Response to Extreme Events Good for Population Persistence?, Lyberger, KP; Osmond, MM; Schreiber, SJ, 2021, number of citations within network = 4
 
-   203: Geometric Insights into evolutionary rescue dynamics in a two-deme model, Mohammadi, A; Campos, PRA, 2025, number of citations within network = 0
+   154: Avoiding extinction under nonlinear environmental change: models of evolutionary rescue with plasticity, Greenspoon, PB; Spencer, HG, 2021, number of citations within network = 1
 
-   208: Effectiveness of CRISPR-Cas in sensitizing bacterial populations with plasmid-encoded antimicrobial resistance, Kippnich, J; Benz, F; Uecker, H; Baumdicker, F, 2025, number of citations within network = 0
+   157: Sexual dimorphism in phenotypic plasticity and persistence under environmental change: An extension of theory and meta-analysis of current data, Hangartner, S; Sgrò, CM; Connallon, T; Booksmythe, I, 2022, number of citations within network = 1
 
-   209: Evolutionary rescue of niche constructors from habitat exploitation: Fecundity costs can promote rescue, Longcamp, A; Draghi, J, 2025, number of citations within network = 0
+   160: A Trade-Off between Robustness to Environmental Fluctuations and Speed of Evolution, Schmid, M; Paniw, M; Postuma, M; Ozgul, A; Guillaume, F, 2022, number of citations within network = 3
+
+   171: Evolutionary History Mediates Population Response to Rapid Environmental Change through Within-Generational and Transgenerational Plasticity, Clement, DT; Neylan, IP; Roberts, NJ; Schreiber, SJ; Trimmer, PC; Sih, A, 2023, number of citations within network = 0
+
+   175: Adaptation of a quantitative trait to a changing environment: New analytical insights on the asexual and infinitesimal sexual models, Garnier, J; Cotto, O; Bouin, E; Bourgeron, T; Lepoutre, T; Ronce, O; Calvez, V, 2023, number of citations within network = 2
+
+   180: Evolutionary rescue from climate change: male indirect genetic effects on lay-dates and their consequences for population persistence, Murray, M; Wright, J; Araya-Ajoy, YG, 2024, number of citations within network = 0
+
+   191: Evolutionary rescue under demographic and environmental stochasticity, Xu, KY; Vision, TJ; Servedio, MR, 2023, number of citations within network = 2
+
+   195: Demographic feedbacks during evolutionary rescue can slow or speed adaptive evolution, Draghi, JA; McGlothlin, JW; Kindsvater, HK, 2024, number of citations within network = 2
+
+   196: How density dependence, genetic erosion and the extinction vortex impact evolutionary rescue, Nordstrom, SW; Hufbauer, RA; Olazcuaga, L; Durkee, LF; Melbourne, BA, 2023, number of citations within network = 1
+
+   197: Alternative reproductive tactics and evolutionary rescue, Knell, RJ; Parrett, JM, 2024, number of citations within network = 1
+
+   199: Effect of the Seed Bank on Evolutionary Rescue in Small Populations: Univariate and Multivariate Demogenetic Dynamics, Godineau, C; Theodorou, K; Spigler, RB, 2024, number of citations within network = 0
+
+   204: The genetics of phenotypic plasticity. XVIII. Developmental limits restrict adaptive plasticity, Khare, SB; Holt, RD; Scheiner, SM, 2024, number of citations within network = 0
+
+   206: Sharp habitat shifts, evolutionary tipping points and rescue: Quantifying the perilous path of a specialist species towards a refugium in a changing environment, Dekens, L, 2024, number of citations within network = 1
+
+   220: The Baldwin Effect Reloaded: Intermediate Levels of Phenotypic Plasticity Favor Evolutionary Rescue, Lambert, A; Achaz, G; Le Rouzic, A; Loison, L, 2025, number of citations within network = 0
+
+   224: Impacts of Epistasis, Recombination, and Genome Architecture on Population Recovery following Radical Habitat Change, Wirtz, J; Lee, CE; Chevin, LM, 2026, number of citations within network = 0
+
+   226: Do alternative reproductive tactics facilitate evolutionary rescue? A comment on Knell & Parrett 2024, Riederer, JM; Weissing, FJ, 2026, number of citations within network = 0
+
+   229: Longevity Hinders Evolutionary Rescue through Slower Growth but Not Necessarily Slower Adaptation, Nordstrom, SW; Melbourne, BA, 2026, number of citations within network = 0
+
+   234: Evolution of species' range and niche in changing environments, Polechová, J, 2026, number of citations within network = 0
+
+   243: A MODEL OF POPULATION-GROWTH, DISPERSAL AND EVOLUTION IN A CHANGING ENVIRONMENT, PEASE, CM; LANDE, R; BULL, JJ, 1989, number of citations within network = 33
+
+   245: ADAPTIVE AND DEMOGRAPHIC RESPONSES OF PLANKTON POPULATIONS TO ENVIRONMENTAL-CHANGE, LYNCH, M; GABRIEL, W; WOOD, AM, 1991, number of citations within network = 24
+
+   246: EVOLUTION AND EXTINCTION IN RESPONSE TO ENVIRONMENTAL-CHANGE, LYNCH, M; LANDE, R, 1993, number of citations within network = 51
+
+   247: EVOLUTION AND EXTINCTION IN A CHANGING ENVIRONMENT - A QUANTITATIVE-GENETIC ANALYSIS, BURGER, R; LYNCH, M, 1995, number of citations within network = 72
+
+   249: The role of genetic variation in adaptation and population persistence in a changing environment, Lande, R; Shannon, S, 1996, number of citations within network = 33
 
 
 
 -------------------COMMUNITY 2----------------------
-   2: Evolution of genetic variability and the advantage of sex and recombination in changing environments, Bürger, R, 1999, number of citations within network = 10
+   6: Evolutionary dynamics of invasion and escape, Iwasa, Y; Michor, F; Nowak, MA, 2004, number of citations within network = 9
 
-   15: TO AGE, TO DIE: PARITY, EVOLUTIONARY TRACKING AND COLE'S PARADOX, Zeineddine, M; Jansen, VAA, 2009, number of citations within network = 4
+   7: Evolutionary dynamics of escape from biomedical intervention, Iwasa, Y; Michor, F; Nowak, MA, 2003, number of citations within network = 3
 
-   16: Species' Range: Adaptation in Space and Time, Polechová, J; Barton, N; Marion, G, 2009, number of citations within network = 17
+   10: Evolution of resistance during clonal expansion, Iwasa, Y; Nowak, MA; Michor, F, 2006, number of citations within network = 1
 
-   17: Demographic and Genetic Constraints on Evolution, Gomulkiewicz, R; Houle, D, 2009, number of citations within network = 25
+   14: Population extinction and the genetics of adaptation, Orr, HA; Unckless, RL, 2008, number of citations within network = 76
 
-   20: Increased mortality can promote evolutionary adaptation of forest trees to climate change, Kuparinen, A; Savolainen, O; Schurr, FM, 2010, number of citations within network = 6
+   29: The evolution of plasmid-carried antibiotic resistance, Svara, F; Rankin, DJ, 2011, number of citations within network = 2
 
-   22: Adaptation, Plasticity, and Extinction in a Changing Environment: Towards a Predictive Theory, Chevin, LM; Lande, R; Mace, GM, 2010, number of citations within network = 34
+   30: On the Fixation Process of a Beneficial Mutation in a Variable Environment, Uecker, H; Hermisson, J, 2011, number of citations within network = 27
 
-   25: Evolution in Stage-Structured Populations, Barfield, M; Holt, RD; Gomulkiewicz, R, 2011, number of citations within network = 9
+   37: Limited evolutionary rescue of locally adapted populations facing climate change, Schiffers, K; Bourne, EC; Lavergne, S; Thuiller, W; Travis, JMJ, 2013, number of citations within network = 17
 
-   26: Introgressive hybridization as a mechanism for species rescue, Baskett, ML; Gomulkiewicz, R, 2011, number of citations within network = 0
+   40: The probability of evolutionary rescue: towards a quantitative comparison between theory and evolution experiments, Martin, G; Aguilée, R; Ramsayer, J; Kaltz, O; Ronce, O, 2013, number of citations within network = 38
 
-   31: How do genetic correlations affect species range shifts in a changing environment?, Duputié, A; Massol, F; Chuine, I; Kirkpatrick, M; Ronce, O, 2012, number of citations within network = 12
+   41: ADAPTATION AND MALADAPTATION IN SELFING AND OUTCROSSING SPECIES: NEW MUTATIONS VERSUS STANDING VARIATION, Glémin, S; Ronfort, J, 2013, number of citations within network = 9
 
-   35: Limited evolutionary rescue of locally adapted populations facing climate change, Schiffers, K; Bourne, EC; Lavergne, S; Thuiller, W; Travis, JMJ, 2013, number of citations within network = 15
+   47: Evolutionary Rescue in Structured Populations, Uecker, H; Otto, SP; Hermisson, J, 2014, number of citations within network = 40
 
-   41: GENETIC CONSTRAINTS ON ADAPTATION TO A CHANGING ENVIRONMENT, Chevin, LM, 2013, number of citations within network = 15
+   48: Evolutionary dynamics of cancer in response to targeted combination therapy, Bozic, I; Reiter, JG; Allen, B; Antal, T; Chatterjee, K; Shah, P; Moon, YS; Yaqubie, A; Kelly, N; Le, DT; Lipson, EJ; Chapman, PB; Diaz, LA; Vogelstein, B; Nowak, MA, 2013, number of citations within network = 5
 
-   48: Between migration load and evolutionary rescue: dispersal, adaptation and the response of spatially structured populations to environmental change, Bourne, EC; Bocedi, G; Travis, JMJ; Pakeman, RJ; Brooker, RW; Schiffers, K, 2014, number of citations within network = 8
+   53: PLASMIDS AND EVOLUTIONARY RESCUE BY DRUG RESISTANCE, Tazzyman, SJ; Bonhoeffer, S, 2014, number of citations within network = 6
 
-   52: MALADAPTATION AS A SOURCE OF SENESCENCE IN HABITATS VARIABLE IN SPACE AND TIME, Cotto, O; Ronce, O, 2014, number of citations within network = 4
+   54: The Population Genetics of Evolutionary Rescue, Orr, HA; Unckless, RL, 2014, number of citations within network = 46
 
-   53: FISHER'S GEOMETRIC MODEL WITH A MOVING OPTIMUM, Matuszewski, S; Hermisson, J; Kopp, M, 2014, number of citations within network = 7
+   64: Does High-Dose Antimicrobial Chemotherapy Prevent the Evolution of Resistance?, Day, T; Read, AF, 2016, number of citations within network = 9
 
-   58: Catch Me if You Can: Adaptation from Standing Genetic Variation to a Moving Phenotypic Optimum, Matuszewski, S; Hermisson, J; Kopp, M, 2015, number of citations within network = 7
+   65: The Role of Recombination in Evolutionary Rescue, Uecker, H; Hermisson, J, 2016, number of citations within network = 32
 
-   64: Pollen dispersal slows geographical range shift and accelerates ecological niche shift under climate change, Aguilée, R; Raoul, G; Rousset, F; Ronce, O, 2016, number of citations within network = 3
+   75: Evolutionary rescue in randomly mating, selfing, and clonal populations, Uecker, H, 2017, number of citations within network = 10
 
-   66: Global change, life-history complexity and the potential for evolutionary rescue, Marshall, DJ; Burgess, SC; Connallon, T, 2016, number of citations within network = 4
+   78: Soft Selective Sweeps in Evolutionary Rescue, Wilson, BA; Pennings, PS; Petrov, DA, 2017, number of citations within network = 12
 
-   69: Predicting patterns of long-term adaptation and extinction with population genetics, Bertram, J; Gomez, K; Masel, J, 2017, number of citations within network = 2
+   87: Evolutionary rescue of a parasite population by mutation rate evolution, Greenspoon, PB; Mideo, N, 2017, number of citations within network = 2
 
-   70: THE EFFECT OF CLIMATE SHIFT ON A SPECIES SUBMITTED TO DISPERSION, EVOLUTION, GROWTH AND NONLOCAL COMPETITION, Alfaro, M; Berestycki, H; Raoul, G, 2017, number of citations within network = 1
+   94: Evolutionary Rescue over a Fitness Landscape, Anciaux, Y; Chevin, LM; Ronce, O; Martin, G, 2018, number of citations within network = 20
 
-   74: A dynamic eco-evolutionary model predicts slow response of alpine plants to climate warming, Cotto, O; Wessely, J; Georges, D; Klonner, G; Schmid, M; Dullinger, S; Thuiller, W; Guillaume, F, 2017, number of citations within network = 8
+   103: Evolutionary Rescue Through Partly Heritable Phenotypic Variability, Carja, O; Plotkin, JB, 2019, number of citations within network = 5
 
-   78: Extinction Risk and Lack of Evolutionary Rescue under Resource Depletion or Area Reduction, Engen, S; Sæther, BE, 2017, number of citations within network = 1
+   111: Population persistence under high mutation rate: From evolutionary rescue to lethal mutagenesis, Anciaux, Y; Lambert, A; Ronce, O; Roques, L; Martin, G, 2019, number of citations within network = 10
 
-   82: Effects of Clonal Reproduction on Evolutionary Lag and Evolutionary Rescue, Orive, ME; Barfield, M; Fernandez, C; Holt, RD, 2017, number of citations within network = 8
+   120: Genetic Paths to Evolutionary Rescue and the Distribution of Fitness Effects Along Them, Osmond, MM; Otto, SP; Martin, G, 2020, number of citations within network = 14
 
-   86: An evolutionary tipping point in a changing environment, Osmond, MM; Klausmeier, CA, 2017, number of citations within network = 7
+   121: Understanding the role of phenotypic switching in cancer drug resistance, Gunnarsson, EB; De, S; Leder, K; Foo, J, 2020, number of citations within network = 2
 
-   91: Phenotypic lag and population extinction in the moving-optimum model: insights from a small-jumps limit, Kopp, M; Nassar, E; Pardoux, E, 2018, number of citations within network = 0
+   122: The Population Genetics of Evolutionary Rescue in Diploids: X Chromosomal versus Autosomal Rescue, Unckless, RL; Orr, HA, 2020, number of citations within network = 1
 
-   99: Surfing on the seascape: Adaptation in a changing environment, Trubenová, B; Krejca, MS; Lehre, PK; Kötzing, T, 2019, number of citations within network = 2
+   124: Evolutionary tracking is determined by differential selection on demographic rates and density dependence, Vinton, AC; Vasseur, DA, 2020, number of citations within network = 4
 
-   103: Implications of existing local (mal)adaptations for ecological forecasting under environmental change, Walters, RJ; Berger, D, 2019, number of citations within network = 1
+   128: When does gene flow facilitate evolutionary rescue?, Tomasini, M; Peischl, S, 2020, number of citations within network = 5
 
-   106: Maladaptive Shifts in Life History in a Changing Environment*, Cotto, O; Sandell, L; Chevin, LM; Ronce, O, 2019, number of citations within network = 5
+   129: Genetic Signatures of Evolutionary Rescue by a Selective Sweep, Osmond, MM; Coop, G, 2020, number of citations within network = 2
 
-   137: Temporal environmental variation may impose differential selection on both genomic and ecological traits, Leidinger, L; Vedder, D; Cabral, JS, 2021, number of citations within network = 0
+   130: Evolutionary Rescue and Drug Resistance on Multicopy Plasmids, Santer, M; Uecker, H, 2020, number of citations within network = 3
 
-   149: Sexual dimorphism in phenotypic plasticity and persistence under environmental change: An extension of theory and meta-analysis of current data, Hangartner, S; Sgrò, CM; Connallon, T; Booksmythe, I, 2022, number of citations within network = 1
+   133: The fundamentals of cultural adaptation: implications for human adaptation, Fogarty, L; Kandler, A, 2020, number of citations within network = 0
 
-   152: A Trade-Off between Robustness to Environmental Fluctuations and Speed of Evolution, Schmid, M; Paniw, M; Postuma, M; Ozgul, A; Guillaume, F, 2022, number of citations within network = 2
+   134: Adapt or Perish: Evolutionary Rescue in a Gradually Deteriorating Environment, Marrec, L; Bitbol, AF, 2020, number of citations within network = 10
 
-   159: Large-effect loci mediate rapid adaptation of salmon body size after river regulation, Jensen, AJ; Hagen, IJ; Czorlich, Y; Bolstad, GH; Bremset, G; Finstad, B; Hindar, K; Skaala, O; Karlsson, S, 2022, number of citations within network = 0
+   142: The Effect of Habitat Choice on Evolutionary Rescue in Subdivided Populations, Czuppon, P; Blanquart, F; Uecker, H; Débarre, F, 2021, number of citations within network = 9
 
-   167: Adaptation of a quantitative trait to a changing environment: New analytical insights on the asexual and infinitesimal sexual models, Garnier, J; Cotto, O; Bouin, E; Bourgeron, T; Lepoutre, T; Ronce, O; Calvez, V, 2023, number of citations within network = 2
+   153: A branching process model of evolutionary rescue, Azevedo, RBR; Olofsson, P, 2021, number of citations within network = 0
 
-   172: Evolutionary rescue from climate change: male indirect genetic effects on lay-dates and their consequences for population persistence, Murray, M; Wright, J; Araya-Ajoy, YG, 2024, number of citations within network = 0
+   156: Hazardous Loss of Genetic Diversity through Selective Sweeps in Asexual Populations, Wahl, LM; Tanaka, MM, 2022, number of citations within network = 0
 
-   187: Demographic feedbacks during evolutionary rescue can slow or speed adaptive evolution, Draghi, JA; McGlothlin, JW; Kindsvater, HK, 2024, number of citations within network = 0
+   158: Dominance shifts increase the likelihood of soft selective sweeps, Muralidhar, P; Veller, C, 2022, number of citations within network = 0
 
-   191: Effect of the Seed Bank on Evolutionary Rescue in Small Populations: Univariate and Multivariate Demogenetic Dynamics, Godineau, C; Theodorou, K; Spigler, RB, 2024, number of citations within network = 0
+   162: Surviving environmental change: when increasing population size can increase extinction risk, Tanaka, MM; Wahl, LM, 2022, number of citations within network = 4
 
-   198: Sharp habitat shifts, evolutionary tipping points and rescue: Quantifying the perilous path of a specialist species towards a refugium in a changing environment, Dekens, L, 2024, number of citations within network = 1
+   163: The role of spatial structure in multi-deme models of evolutionary rescue, Tomasini, M; Peischl, S, 2022, number of citations within network = 3
 
-   216: A MODEL OF POPULATION-GROWTH, DISPERSAL AND EVOLUTION IN A CHANGING ENVIRONMENT, PEASE, CM; LANDE, R; BULL, JJ, 1989, number of citations within network = 30
+   167: The phoenix hypothesis of speciation, Yamaguchi, R; Wiley, B; Otto, SP, 2022, number of citations within network = 6
 
-   218: ADAPTIVE AND DEMOGRAPHIC RESPONSES OF PLANKTON POPULATIONS TO ENVIRONMENTAL-CHANGE, LYNCH, M; GABRIEL, W; WOOD, AM, 1991, number of citations within network = 23
+   169: A theory of resistance to multiplexed gene drive demonstrates the significant role of weakly deleterious natural genetic variation, Khatri, BS; Burt, A, 2022, number of citations within network = 0
 
-   219: EVOLUTION AND EXTINCTION IN RESPONSE TO ENVIRONMENTAL-CHANGE, LYNCH, M; LANDE, R, 1993, number of citations within network = 45
+   172: Promoting extinction or minimizing growth? The impact of treatment on trait trajectories in evolving populations, Raatz, M; Traulsen, A, 2023, number of citations within network = 2
 
-   222: The role of genetic variation in adaptation and population persistence in a changing environment, Lande, R; Shannon, S, 1996, number of citations within network = 29
+   174: Effects of population size change on the genetics of adaptation following an abrupt change in environment, McDonough, Y; Connallon, T, 2023, number of citations within network = 4
+
+   177: The effects of selfing on multi-step adaptation, Xu, KY, 2023, number of citations within network = 0
+
+   181: Evolutionary rescue via niche construction: Infrequent construction can prevent post-invasion extinction, Longcamp, A; Draghi, J, 2023, number of citations within network = 2
+
+   186: The contribution of evolvability to the eco-evolutionary dynamics of competing species, Bukkuri, A; Pienta, KJ; Amend, SR; Austin, RH; Hammarlund, EU; Brown, JS, 2023, number of citations within network = 0
+
+   188: Evolutionary rescue on genotypic fitness landscapes, Wahl, LM; Campos, PRA, 2023, number of citations within network = 5
+
+   190: Limits to evolutionary rescue by conjugative plasmids, Geoffroy, F; Uecker, H, 2023, number of citations within network = 2
+
+   201: Understanding evolutionary rescue and parallelism in response to environmental stress, Freitas, O; Campos, PRA, 2024, number of citations within network = 2
+
+   202: The role of epistasis in evolutionary rescue, Freitas, O; Campos, PRA, 2024, number of citations within network = 1
+
+   210: Evolutionary rescue of bacterial populations by heterozygosity on multicopy plasmids, Dewan, I; Uecker, H, 2025, number of citations within network = 0
+
+   211: Maintaining Local Adaptation Is Key for Evolutionary Rescue and Long-Term Persistence of Populations Experiencing Habitat Loss and a Changing Environment, Baiotto, T; Guzman, LM, 2025, number of citations within network = 0
+
+   212: Geometric Insights into evolutionary rescue dynamics in a two-deme model, Mohammadi, A; Campos, PRA, 2025, number of citations within network = 0
+
+   216: Evolutionary rescue by aneuploidy in tumors exposed to anticancer drugs, Stana, R; Ben-David, U; Weissman, DB; Ram, Y, 2025, number of citations within network = 0
+
+   218: Quantifying evolutionary rescue probabilities upon standing genetic variation and de novo mutations, Campos, PRA, 2025, number of citations within network = 0
+
+   221: Effectiveness of CRISPR-Cas in sensitizing bacterial populations with plasmid-encoded antimicrobial resistance, Kippnich, J; Benz, F; Uecker, H; Baumdicker, F, 2025, number of citations within network = 0
+
+   222: Evolutionary rescue of niche constructors from habitat exploitation: Fecundity costs can promote rescue, Longcamp, A; Draghi, J, 2025, number of citations within network = 0
+
+   227: Evolutionary rescue by adaptive specialization in rapidly changing environments, Draghi, JA, 2026, number of citations within network = 0
+
+   228: Preventing evolutionary rescue in cancer using two-strike therapy, Patil, S; Ahmed, A; Viossat, Y; Noble, R, 2026, number of citations within network = 1
+
+   231: When Does the Probability of Evolutionary Rescue Increase with the Strength of Selection despite a Potential Demographic Cost?, Xu, KY; Osmond, MM, 2026, number of citations within network = 0
+
+   236: The Double-Edged Sword Effect of Assortative Mating on Adaptation, Han, JX; Wang, RW, 2026, number of citations within network = 0
+
+   237: ANALYSIS OF EFFECTS OF ANTIBIOTICS ON BACTERIA BY MEANS OF STOCHASTIC MODELS, NISSENME.S, 1966, number of citations within network = 3
+
+   240: RATIONALE FOR THE USE OF ALTERNATING NON-CROSS-RESISTANT CHEMOTHERAPY, GOLDIE, JH; COLDMAN, AJ; GUDAUSKAS, GA, 1982, number of citations within network = 2
+
+   241: A MODEL FOR THE RESISTANCE OF TUMOR-CELLS TO CANCER CHEMOTHERAPEUTIC-AGENTS, COLDMAN, AJ; GOLDIE, JH, 1983, number of citations within network = 1
 
 
 
 -------------------COMMUNITY 3----------------------
-   10: Biodiversity inhibits species' evolutionary responses to changing environments, de Mazancourt, C; Johnson, E; Barraclough, TG, 2008, number of citations within network = 13
+   11: Evolutionary responses to environmental changes: How does competition affect adaptation?, Johansson, J, 2008, number of citations within network = 11
 
-   11: A theoretical quantitative genetic study of negative ecological interactions and extinction times in changing environments, Jones, AG, 2008, number of citations within network = 10
+   12: Biodiversity inhibits species' evolutionary responses to changing environments, de Mazancourt, C; Johnson, E; Barraclough, TG, 2008, number of citations within network = 13
 
-   30: Biotic Interactions, Rapid Evolution, and the Establishment of Introduced Species, Jones, EI; Gomulkiewicz, R, 2012, number of citations within network = 3
+   13: A theoretical quantitative genetic study of negative ecological interactions and extinction times in changing environments, Jones, AG, 2008, number of citations within network = 11
 
-   33: Eco-evolutionary responses of biodiversity to climate change, Norberg, J; Urban, MC; Vellend, M; Klausmeier, CA; Loeuille, N, 2012, number of citations within network = 16
+   32: Biotic Interactions, Rapid Evolution, and the Establishment of Introduced Species, Jones, EI; Gomulkiewicz, R, 2012, number of citations within network = 2
 
-   34: Eco-evolutionary feedbacks, adaptive dynamics and evolutionary rescue theory, Ferriere, R; Legendre, S, 2013, number of citations within network = 13
+   35: Eco-evolutionary responses of biodiversity to climate change, Norberg, J; Urban, MC; Vellend, M; Klausmeier, CA; Loeuille, N, 2012, number of citations within network = 16
 
-   36: Evolutionary and plastic rescue in multitrophic model communities, Kovach-Orr, C; Fussmann, GF, 2013, number of citations within network = 9
+   36: Eco-evolutionary feedbacks, adaptive dynamics and evolutionary rescue theory, Ferriere, R; Legendre, S, 2013, number of citations within network = 14
 
-   37: How competition affects evolutionary rescue, Osmond, MM; de Mazancourt, C, 2013, number of citations within network = 30
+   38: Evolutionary and plastic rescue in multitrophic model communities, Kovach-Orr, C; Fussmann, GF, 2013, number of citations within network = 9
 
-   46: Evolutionary rescue can maintain an oscillating community undergoing environmental change, Fussmann, GF; Gonzalez, A, 2013, number of citations within network = 3
+   39: How competition affects evolutionary rescue, Osmond, MM; de Mazancourt, C, 2013, number of citations within network = 35
 
-   47: Coevolution and the Effects of Climate Change on Interacting Species, Northfield, TD; Ives, AR, 2013, number of citations within network = 10
+   49: Evolutionary rescue can maintain an oscillating community undergoing environmental change, Fussmann, GF; Gonzalez, A, 2013, number of citations within network = 3
 
-   55: Evolutionary responses to environmental change: trophic interactions affect adaptation and persistence, Mellard, JP; de Mazancourt, C; Loreau, M, 2015, number of citations within network = 9
+   50: Coevolution and the Effects of Climate Change on Interacting Species, Northfield, TD; Ives, AR, 2013, number of citations within network = 10
 
-   59: Indirect evolutionary rescue: prey adapts, predator avoids extinction, Yamamichi, M; Miner, BE, 2015, number of citations within network = 14
+   58: Evolutionary responses to environmental change: trophic interactions affect adaptation and persistence, Mellard, JP; de Mazancourt, C; Loreau, M, 2015, number of citations within network = 9
 
-   67: Incorporating evolutionary adaptation in species distribution modelling reduces projected vulnerability to climate change, Bush, A; Mokany, K; Catullo, R; Hoffmann, A; Kellermann, V; Sgrò, C; McEvey, S; Ferrier, S, 2016, number of citations within network = 3
+   62: Indirect evolutionary rescue: prey adapts, predator avoids extinction, Yamamichi, M; Miner, BE, 2015, number of citations within network = 16
 
-   79: When Predators Help Prey Adapt and Persist in a Changing Environment, Osmond, MM; Otto, SP; Klausmeier, CA, 2017, number of citations within network = 16
+   70: Incorporating evolutionary adaptation in species distribution modelling reduces projected vulnerability to climate change, Bush, A; Mokany, K; Catullo, R; Hoffmann, A; Kellermann, V; Sgrò, C; McEvey, S; Ferrier, S, 2016, number of citations within network = 2
 
-   80: Asymmetric competition impacts evolutionary rescue in a changing environment, Van Den Elzen, CL; Kleynhans, EJ; Otto, SP, 2017, number of citations within network = 1
+   82: When Predators Help Prey Adapt and Persist in a Changing Environment, Osmond, MM; Otto, SP; Klausmeier, CA, 2017, number of citations within network = 17
 
-   87: Genomic models predict successful coral adaptation if future ocean warming rates are reduced, Bay, RA; Rose, NH; Logan, CA; Palumbi, SR, 2017, number of citations within network = 4
+   83: Asymmetric competition impacts evolutionary rescue in a changing environment, Van Den Elzen, CL; Kleynhans, EJ; Otto, SP, 2017, number of citations within network = 1
 
-   95: Ecological pleiotropy and indirect effects alter the potential for evolutionary rescue, DeLong, JP; Belmaker, J, 2019, number of citations within network = 2
+   91: Genomic models predict successful coral adaptation if future ocean warming rates are reduced, Bay, RA; Rose, NH; Logan, CA; Palumbi, SR, 2017, number of citations within network = 4
 
-   98: Co-adaptation impacts the robustness of predator-prey dynamics against perturbations, Raatz, M; van Velzen, E; Gaedke, U, 2019, number of citations within network = 4
+   93: The role of selection on evolutionary rescue, Amirjanov, A, 2018, number of citations within network = 0
 
-   101: Management for network diversity speeds evolutionary adaptation to climate change, Walsworth, TE; Schindler, DE; Colton, MA; Webster, MS; Palumbi, SR; Mumby, PJ; Essington, TE; Pinsky, ML, 2019, number of citations within network = 2
+   95: Evolutionary rescue in a host-pathogen system results in coexistence not clearance, Christie, MR; Searle, CL, 2018, number of citations within network = 1
 
-   102: How frequency-dependent selection affects population fitness, maladaptation and evolutionary rescue, Svensson, EI; Connallon, T, 2019, number of citations within network = 3
+   102: Ecological pleiotropy and indirect effects alter the potential for evolutionary rescue, DeLong, JP; Belmaker, J, 2019, number of citations within network = 2
 
-   104: How (co)evolution alters predator responses to increased mortality: extinction thresholds and hydra effects, Cortez, MH; Yamamichi, M, 2019, number of citations within network = 4
+   107: Management for network diversity speeds evolutionary adaptation to climate change, Walsworth, TE; Schindler, DE; Colton, MA; Webster, MS; Palumbi, SR; Mumby, PJ; Essington, TE; Pinsky, ML, 2019, number of citations within network = 2
 
-   108: The conflict between adaptation and dispersal for maintaining biodiversity in changing environments, Thompson, PL; Fronhofer, EA, 2019, number of citations within network = 4
+   108: How frequency-dependent selection affects population fitness, maladaptation and evolutionary rescue, Svensson, EI; Connallon, T, 2019, number of citations within network = 3
 
-   110: Evolutionary Rescue from a Wave of Biological Invasion, Van Dyken, JD, 2020, number of citations within network = 1
+   110: How (co)evolution alters predator responses to increased mortality: extinction thresholds and hydra effects, Cortez, MH; Yamamichi, M, 2019, number of citations within network = 5
 
-   118: Cooperation can promote rescue or lead to evolutionary suicide during environmental change, Henriques, GJB; Osmond, MM, 2020, number of citations within network = 6
+   115: The conflict between adaptation and dispersal for maintaining biodiversity in changing environments, Thompson, PL; Fronhofer, EA, 2019, number of citations within network = 4
 
-   128: Uniting Community Ecology and Evolutionary Rescue Theory: Community-Wide Rescue Leads to a Rapid Loss of Rare Species, van Eldijk, TJB; Bisschop, K; Etienne, RS, 2020, number of citations within network = 0
+   117: Evolutionary Rescue from a Wave of Biological Invasion, Van Dyken, JD, 2020, number of citations within network = 1
 
-   129: Ecological limits to evolutionary rescue, Klausmeier, CA; Osmond, MM; Kremer, CT; Litchman, E, 2020, number of citations within network = 7
+   126: Cooperation can promote rescue or lead to evolutionary suicide during environmental change, Henriques, GJB; Osmond, MM, 2020, number of citations within network = 5
 
-   130: Exploring evolution of maximum growth rates in plankton, Flynn, KJ; Skibinski, DOF, 2020, number of citations within network = 0
+   135: Uniting Community Ecology and Evolutionary Rescue Theory: Community-Wide Rescue Leads to a Rapid Loss of Rare Species, van Eldijk, TJB; Bisschop, K; Etienne, RS, 2020, number of citations within network = 0
 
-   131: Collapse and rescue of evolutionary food webs under global warming, Yacine, Y; Allhoff, KT; Weinbach, A; Loeuille, N, 2021, number of citations within network = 2
+   136: Ecological limits to evolutionary rescue, Klausmeier, CA; Osmond, MM; Kremer, CT; Litchman, E, 2020, number of citations within network = 8
 
-   136: Large-scale interventions may delay decline of the Great Barrier Reef, Condie, SA; Anthony, KRN; Babcock, RC; Baird, ME; Beeden, R; Fletcher, CS; Gorton, R; Harrison, D; Hobday, AJ; Plagányi, ÉE; Westcott, DA, 2021, number of citations within network = 1
+   137: Exploring evolution of maximum growth rates in plankton, Flynn, KJ; Skibinski, DOF, 2020, number of citations within network = 0
 
-   139: Evolution and connectivity influence the persistence and recovery of coral reefs under climate change in the Caribbean, Southwest Pacific, and Coral Triangle, McManus, LC; Forrest, DL; Tekwa, EW; Schindler, DE; Colton, MA; Webster, MM; Essington, TE; Palumbi, SR; Mumby, PJ; Pinsky, ML, 2021, number of citations within network = 1
+   138: Collapse and rescue of evolutionary food webs under global warming, Yacine, Y; Allhoff, KT; Weinbach, A; Loeuille, N, 2021, number of citations within network = 2
 
-   142: How does the magnitude of genetic variation affect ecological and reproductive character displacement?, Morita, K; Yamamichi, M, 2023, number of citations within network = 0
+   143: Large-scale interventions may delay decline of the Great Barrier Reef, Condie, SA; Anthony, KRN; Babcock, RC; Baird, ME; Beeden, R; Fletcher, CS; Gorton, R; Harrison, D; Hobday, AJ; Plagányi, ÉE; Westcott, DA, 2021, number of citations within network = 1
 
-   147: Evolutionary rescue can prevent rate-induced tipping, Vanselow, A; Halekotte, L; Feudel, U, 2022, number of citations within network = 0
+   146: Evolution and connectivity influence the persistence and recovery of coral reefs under climate change in the Caribbean, Southwest Pacific, and Coral Triangle, McManus, LC; Forrest, DL; Tekwa, E; Schindler, DE; Colton, MA; Webster, MM; Essington, TE; Palumbi, SR; Mumby, PJ; Pinsky, ML, 2021, number of citations within network = 1
 
-   155: Change in prey genotype frequency rescues predator from extinction, Hermann, RJ; Becks, L, 2022, number of citations within network = 2
+   149: How does the magnitude of genetic variation affect ecological and reproductive character displacement?, Morita, K; Yamamichi, M, 2023, number of citations within network = 1
 
-   156: Assessing the potential for demographic restoration and assisted evolution to build climate resilience in coral reefs, DeFilippo, LB; McManus, LC; Schindler, DE; Pinsky, ML; Colton, MA; Fox, HE; Tekwa, EW; Palumbi, SR; Essington, TE; Webster, MM, 2022, number of citations within network = 0
+   155: Evolutionary rescue can prevent rate-induced tipping, Vanselow, A; Halekotte, L; Feudel, U, 2022, number of citations within network = 1
 
-   176: High importance of indirect evolutionary rescue in a small food web, van Velzen, E, 2023, number of citations within network = 1
+   161: Rate-induced collapse in evolutionary systems, Arnscheidt, CW; Rothman, DH, 2022, number of citations within network = 0
 
-   177: Eco-evolutionary dynamics in two-species mutualistic systems: one-sided population decline triggers joint interaction disinvestment, Weyerer, F; Weinbach, A; Zarfl, C; Allhoff, KT, 2023, number of citations within network = 0
+   164: Change in prey genotype frequency rescues predator from extinction, Hermann, RJ; Becks, L, 2022, number of citations within network = 4
 
-   192: Geographic variation in evolutionary rescue under climate change in a crop pest-predator system, Ge, XZ; Newman, JA; Griswold, CK, 2024, number of citations within network = 0
+   165: Assessing the potential for demographic restoration and assisted evolution to build climate resilience in coral reefs, DeFilippo, LB; McManus, LC; Schindler, DE; Pinsky, ML; Colton, MA; Fox, HE; Tekwa, EW; Palumbi, SR; Essington, TE; Webster, MM, 2022, number of citations within network = 0
 
-   200: Rescue or murder? The effect of prey adaptation to the predator subjected to fisheries, Shang, YK; Kasada, M; Kondoh, M, 2024, number of citations within network = 0
+   184: High importance of indirect evolutionary rescue in a small food web, van Velzen, E, 2023, number of citations within network = 2
+
+   185: Eco-evolutionary dynamics in two-species mutualistic systems: one-sided population decline triggers joint interaction disinvestment, Weyerer, F; Weinbach, A; Zarfl, C; Allhoff, KT, 2023, number of citations within network = 0
+
+   200: Geographic variation in evolutionary rescue under climate change in a crop pest-predator system, Ge, XZ; Newman, JA; Griswold, CK, 2024, number of citations within network = 0
+
+   208: Rescue or murder? The effect of prey adaptation to the predator subjected to fisheries, Shang, YK; Kasada, M; Kondoh, M, 2024, number of citations within network = 0
+
+   219: The role of trade-off shapes for community adaptation and maintenance of ecosystem functions under environmental change, Ehrlich, E; Adje, G; Gaedke, U, 2025, number of citations within network = 0
+
+   233: The double-edged effect of environmental fluctuations on evolutionary rescue, Shibasaki, S; Yamamichi, M, 2026, number of citations within network = 0
 
 
 
 -------------------COMMUNITY 4----------------------
-   0: Drug concentration heterogeneity facilitates the evolution of drug resistance, Kepler, TB; Perelson, AS, 1998, number of citations within network = 3
+   4: Evolution of migration rate in a spatially realistic metapopulation model, Heino, M; Hanski, I, 2001, number of citations within network = 5
 
-   1: Studies of antibiotic resistance within the patient, hospitals and the community using simple mathematical models, Austin, DJ; Anderson, RM, 1999, number of citations within network = 1
+   16: Sex-specific dispersal and evolutionary rescue in metapopulations infected by male killing endosymbionts, Bonte, D; Hovestadt, T; Poethke, HJ, 2009, number of citations within network = 1
 
-   3: Production of resistant HIV mutants during antiretroviral therapy, Ribeiro, RM; Bonhoeffer, S, 2000, number of citations within network = 3
+   21: Allee effects, adaptive evolution, and invasion success, Kanarek, AR; Webb, CT, 2010, number of citations within network = 5
 
-   7: Recombination and drug resistance in HIV: Population dynamics and stochasticity, Kouyos, RD; Fouchet, D; Bonhoeffer, S, 2009, number of citations within network = 1
+   25: Towards a mechanistic understanding of dispersal evolution in plants: conservation implications, Travis, JMJ; Smith, HS; Ranwala, SMW, 2010, number of citations within network = 2
 
-   8: Drug resistance in cancer: Principles of emergence and prevention, Komarova, NL; Wodarz, D, 2005, number of citations within network = 1
+   43: More rapid climate change promotes evolutionary rescue through selection for increased dispersal distance, Boeye, J; Travis, JMJ; Stoks, R; Bonte, D, 2013, number of citations within network = 4
 
-   32: Effects of Pharmacokinetic Processes and Varied Dosing Schedules on the Dynamics of Acquired Resistance to Erlotinib in EGFR-Mutant Lung Cancer, Foo, J; Chmielecki, J; Pao, W; Michor, F, 2012, number of citations within network = 1
+   45: Eco-evolutionary dynamics of range shifts: Elastic margins and critical thresholds, Henry, RC; Bocedi, G; Travis, JMJ, 2013, number of citations within network = 0
 
-   43: Dynamics of evolutionary rescue in changing environments and the emergence of antibiotic resistance, Wu, Y; Saddler, CA; Valckenborgh, F; Tanaka, MM, 2014, number of citations within network = 6
+   60: A case study of bats and white-nose syndrome demonstrating how to model population viability with evolutionary effects, Maslo, B; Fefferman, NH, 2015, number of citations within network = 3
 
-   45: Evolutionary dynamics of cancer in response to targeted combination therapy, Bozic, I; Reiter, JG; Allen, B; Antal, T; Chatterjee, K; Shah, P; Moon, YS; Yaqubie, A; Kelly, N; Le, DT; Lipson, EJ; Chapman, PB; Diaz, LA; Vogelstein, B; Nowak, MA, 2013, number of citations within network = 3
+   74: Ecological rescue of host-microbial systems under environmental change, Pillai, P; Gouhier, TC; Vollmer, SV, 2017, number of citations within network = 1
 
-   56: Imperfect drug penetration leads to spatial monotherapy and rapid evolution of multidrug resistance, Moreno-Gamez, S; Hill, AL; Rosenbloom, DIS; Petrov, DA; Nowak, MA; Pennings, PS, 2015, number of citations within network = 4
+   79: The double edged sword: The demographic consequences of the evolution of self-fertilization, Abu Awad, D; Billiard, S, 2017, number of citations within network = 3
 
-   63: How competition governs whether moderate or aggressive treatment minimizes antibiotic resistance, Colijn, C; Cohen, T, 2015, number of citations within network = 1
+   80: A Model to Inform Management Actions as a Response to Chytridiomycosis-Associated Decline, Converse, SJ; Bailey, LL; Mosher, BA; Funk, WC; Gerber, BD; Muths, E, 2017, number of citations within network = 1
 
-   107: Aggressive or moderate drug therapy for infectious diseases? Trade-offs between different treatment goals at the individual and population levels, Scire, J; Hozé, N; Uecker, H, 2019, number of citations within network = 1
+   92: Optimal management strategy of insecticide resistance under various insect life histories: Heterogeneous timing of selection and interpatch dispersal, Sudo, M; Takahashi, D; Andow, DA; Suzuki, Y; Yamanaka, T, 2018, number of citations within network = 1
 
-   114: Understanding the role of phenotypic switching in cancer drug resistance, Gunnarsson, EB; De, S; Leder, K; Foo, J, 2020, number of citations within network = 1
+   97: POPULATION INVASION WITH BISTABLE DYNAMICS AND ADAPTIVE EVOLUTION: THE EVOLUTIONARY RESCUE, Alfaro, M; Ducrot, A, 2018, number of citations within network = 1
 
-   116: Resist or perish: Fate of a microbial population subjected to a periodic presence of antimicrobial, Marrec, L; Bitbol, AF, 2020, number of citations within network = 7
+   99: Success of Wildlife Disease Treatment Depends on Host Immune Response, Maslo, B; Gignoux-Wolfsohn, SA; Fefferman, NH, 2017, number of citations within network = 0
 
-   140: Multi-step vs. single-step resistance evolution under different drugs, pharmacokinetics, and treatment regimens, Igler, C; Rolff, J; Regoes, R, 2021, number of citations within network = 7
+   100: Eco-evolutionary rescue promotes host-pathogen coexistence, DiRenzo, GV; Zipkin, EF; Grant, EHC; Royle, JA; Longo, AV; Zamudio, KR; Lips, KR, 2018, number of citations within network = 1
 
-   144: Drug-induced resistance evolution necessitates less aggressive treatment, Kuosmanen, T; Cairns, J; Noble, R; Beerenwinkel, N; Mononen, T; Mustonen, V, 2021, number of citations within network = 1
+   101: How many and when? Optimising targeted gene flow for a step change in the environment, Kelly, E; Phillips, B, 2019, number of citations within network = 1
 
-   157: Modeling Polygenic Antibiotic Resistance Evolution in Biofilms, Trubenova, B; Roizman, D; Rolff, J; Regoes, RR, 2022, number of citations within network = 0
+   104: Does the evolution of self-fertilization rescue populations or increase the risk of extinction?, Cheptou, PO, 2019, number of citations within network = 3
 
-   160: Sequential antibiotic therapy in the laboratory and in the patient, Nyhoegen, C; Uecker, H, 2023, number of citations within network = 3
+   119: Eradicating Metastatic Cancer and the Eco-Evolutionary Dynamics of Anthropocene Extinctions, Gatenby, RA; Artzy-Randrup, Y; Epstein, T; Reed, DR; Brown, JS, 2020, number of citations within network = 1
 
-   168: Statistical inference of the rates of cell proliferation and phenotypic switching in cancer, Gunnarsson, EB; Foo, J; Leder, K, 2023, number of citations within network = 0
+   139: Positive interactions within and between populations decrease the likelihood of evolutionary rescue, Goldberg, Y; Friedman, J, 2021, number of citations within network = 4
 
-   175: A stochastic analysis of the interplay between antibiotic dose, mode of action, and bacterial competition in the evolution of antibiotic resistance, Czuppon, P; Day, T; Débarre, F; Blanquart, F, 2023, number of citations within network = 4
+   144: Temporal environmental variation may impose differential selection on both genomic and ecological traits, Leidinger, L; Vedder, D; Cabral, JS, 2021, number of citations within network = 0
 
-   189: Alternative reproductive tactics and evolutionary rescue, Knell, RJ; Parrett, JM, 2024, number of citations within network = 1
+   148: Host adaptation to novel pathogen introduction: Predicting conditions that promote evolutionary rescue, Golas, BD; Goodell, B; Webb, CT, 2021, number of citations within network = 1
 
-   195: The many dimensions of combination therapy: How to combine antibiotics to limit resistance evolution, Nyhoegen, C; Bonhoeffer, S; Uecker, H, 2024, number of citations within network = 2
+   150: The eco-evolutionary dynamics of prior selfing rates promote coexistence without niche partitioning under conditions of reproductive interference, Katsuhara, KR; Tachiki, Y; Iritani, R; Ushimaru, A, 2021, number of citations within network = 1
 
-   199: Pathogen non-planktonic phases within the urinary tract impact early infection and resistance evolution, Raatz, M; de Azevedo-Lopes, A; Drabik, K; Traulsen, A; Waclaw, B, 2024, number of citations within network = 0
+   152: When the Allee threshold is an evolutionary trait: Persistence vs. extinction, Alfaro, M; Girardin, L; Hamel, F; Rogues, L, 2021, number of citations within network = 0
 
-   204: Spatial structure facilitates evolutionary rescue by drug resistance, Fruet, C; Müller, EL; Loverdo, C; Bitbol, AF, 2025, number of citations within network = 0
+   159: The genetic basis of selfing rate evolution, Xu, KY, 2022, number of citations within network = 3
 
-   206: Optimal antimicrobial dosing combinations when drug-resistance mutation rates differ, Delaney, O; Letten, AD; Engelstaedter, J, 2025, number of citations within network = 0
+   178: Population Rescue through an Increase in the Selfing Rate under Pollen Limitation: Plasticity versus Evolution, Xu, KY, 2023, number of citations within network = 1
 
-   210: ANALYSIS OF EFFECTS OF ANTIBIOTICS ON BACTERIA BY MEANS OF STOCHASTIC MODELS, NISSENME.S, 1966, number of citations within network = 3
+   179: Optimizing targeted gene flow to maximize local genetic diversity: when and how to act under various scenarios of environmental change, Smart, AS; Phillips, BL, 2023, number of citations within network = 0
 
-   223: The population dynamics of antimicrobial chemotherapy, Lipsitch, M; Levin, BR, 1997, number of citations within network = 5
+   187: A model for evolutionary rescue through plant mating system, Degottex-Fréy, F; Cheptou, PO, 2023, number of citations within network = 0
 
-   224: Virus dynamics and drug therapy, Bonhoeffer, S; May, RM; Shaw, GM; Nowak, MA, 1997, number of citations within network = 3
+   189: Evolution of dispersal and the maintenance of fragmented metapopulations, Finand, B; Monnin, T; Loeuille, N, 2024, number of citations within network = 0
 
-   225: Evaluating treatment protocols to prevent antibiotic resistance, Bonhoeffer, S; Lipsitch, M; Levin, BR, 1997, number of citations within network = 6
+   192: The Evolutionary Dynamics of a Sex-Structured Population with Non-Overlapping Generations, Revutskaya, O; Neverova, G; Zhdanova, O; Frisman, E, 2023, number of citations within network = 0
+
+   193: Multi-scale effects of habitat loss and the role of trait evolution, Bagawade, R; van Benthem, KJ; Wittmann, MJ, 2024, number of citations within network = 0
+
+   194: Male harm suppresses female fitness, affecting the dynamics of adaptation and evolutionary rescue, Gomez-Llano, M; Faria, GS; Garcia-Roa, R; Noble, DWA; Carazo, P, 2024, number of citations within network = 0
+
+   205: Resource-based modelling approach to studying evolutionary rescue, Oliveira, VM; Campos, PRA, 2024, number of citations within network = 1
+
+   215: Eco-evolutionary dynamics of anthelmintic resistance in soil-transmitted helminths, Patel, S; Lyberger, K; Vegvari, C; Gulbudak, H, 2025, number of citations within network = 0
+
+   225: What drives bacterial extinction? The role of bacteriophages, Tanaka, MM; Wahl, LM, 2026, number of citations within network = 0
+
+   230: Eco-Evolutionary Dynamics of Generalist and Specialist Pollinators Facing Plant Diversity Changes, Eriksson, M; Pontarp, M, 2026, number of citations within network = 0
+
+   232: Demographic and genetic factors affect the use of translocation for evolutionary rescue: A case study of American chestnut using simulation, Stoltz, SS; Griswold, CK; Husband, BC, 2026, number of citations within network = 0
+
+   235: How do mate-finding Allee effects affect evolutionary rescue?, Deraje, P; Uecker, H, 2026, number of citations within network = 0
+
+   238: DEVELOPMENT OF INSECTICIDE RESISTANCE IN PRESENCE OF MIGRATION, COMINS, HN, 1977, number of citations within network = 3
+
+   239: SUPPRESSION OF INSECTICIDE RESISTANCE BY ALTERATION OF GENE DOMINANCE AND MIGRATION, TAYLOR, CE; GEORGHIOU, GP, 1979, number of citations within network = 1
+
+   248: WHEN DOES EVOLUTION BY NATURAL-SELECTION PREVENT EXTINCTION, GOMULKIEWICZ, R; HOLT, RD, 1995, number of citations within network = 118
 
 
 
 -------------------COMMUNITY 5----------------------
-   4: Evolution of migration rate in a spatially realistic metapopulation model, Heino, M; Hanski, I, 2001, number of citations within network = 5
+   0: Drug concentration heterogeneity facilitates the evolution of drug resistance, Kepler, TB; Perelson, AS, 1998, number of citations within network = 4
 
-   14: Sex-specific dispersal and evolutionary rescue in metapopulations infected by male killing endosymbionts, Bonte, D; Hovestadt, T; Poethke, HJ, 2009, number of citations within network = 0
+   1: Studies of antibiotic resistance within the patient, hospitals and the community using simple mathematical models, Austin, DJ; Anderson, RM, 1999, number of citations within network = 1
 
-   19: Allee effects, adaptive evolution, and invasion success, Kanarek, AR; Webb, CT, 2010, number of citations within network = 2
+   3: Production of resistant HIV mutants during antiretroviral therapy, Ribeiro, RM; Bonhoeffer, S, 2000, number of citations within network = 4
 
-   23: Towards a mechanistic understanding of dispersal evolution in plants: conservation implications, Travis, JMJ; Smith, HS; Ranwala, SMW, 2010, number of citations within network = 2
+   8: Recombination and drug resistance in HIV: Population dynamics and stochasticity, Kouyos, RD; Fouchet, D; Bonhoeffer, S, 2009, number of citations within network = 1
 
-   40: More rapid climate change promotes evolutionary rescue through selection for increased dispersal distance, Boeye, J; Travis, JMJ; Stoks, R; Bonte, D, 2013, number of citations within network = 4
+   9: Drug resistance in cancer: Principles of emergence and prevention, Komarova, NL; Wodarz, D, 2005, number of citations within network = 2
 
-   42: Eco-evolutionary dynamics of range shifts: Elastic margins and critical thresholds, Henry, RC; Bocedi, G; Travis, JMJ, 2013, number of citations within network = 0
+   34: Effects of Pharmacokinetic Processes and Varied Dosing Schedules on the Dynamics of Acquired Resistance to Erlotinib in EGFR-Mutant Lung Cancer, Foo, J; Chmielecki, J; Pao, W; Michor, F, 2012, number of citations within network = 1
 
-   57: A case study of bats and white-nose syndrome demonstrating how to model population viability with evolutionary effects, Maslo, B; Fefferman, NH, 2015, number of citations within network = 4
+   42: Pre-existence and emergence of drug resistance in a generalized model of intra-host viral dynamics, Alexander, HK; Bonhoeffer, S, 2012, number of citations within network = 7
 
-   71: Ecological rescue of host-microbial systems under environmental change, Pillai, P; Gouhier, TC; Vollmer, SV, 2017, number of citations within network = 1
+   46: Dynamics of evolutionary rescue in changing environments and the emergence of antibiotic resistance, Wu, Y; Saddler, CA; Valckenborgh, F; Tanaka, MM, 2014, number of citations within network = 6
 
-   77: A Model to Inform Management Actions as a Response to Chytridiomycosis-Associated Decline, Converse, SJ; Bailey, LL; Mosher, BA; Funk, WC; Gerber, BD; Muths, E, 2017, number of citations within network = 0
+   59: Imperfect drug penetration leads to spatial monotherapy and rapid evolution of multidrug resistance, Moreno-Gamez, S; Hill, AL; Rosenbloom, DIS; Petrov, DA; Nowak, MA; Pennings, PS, 2015, number of citations within network = 4
 
-   92: Success of Wildlife Disease Treatment Depends on Host Immune Response, Maslo, B; Gignoux-Wolfsohn, SA; Fefferman, NH, 2017, number of citations within network = 0
+   66: How competition governs whether moderate or aggressive treatment minimizes antibiotic resistance, Colijn, C; Cohen, T, 2015, number of citations within network = 1
 
-   93: Eco-evolutionary rescue promotes host-pathogen coexistence, DiRenzo, GV; Zipkin, EF; Grant, EHC; Royle, JA; Longo, AV; Zamudio, KR; Lips, KR, 2018, number of citations within network = 2
+   84: Convection shapes the trade-off between antibiotic efficacy and the selection for resistance in spatial gradients, Gralka, M; Fusco, D; Martis, S; Hallatschek, O, 2017, number of citations within network = 0
 
-   94: How many and when? Optimising targeted gene flow for a step change in the environment, Kelly, E; Phillips, B, 2019, number of citations within network = 1
+   114: Aggressive or moderate drug therapy for infectious diseases? Trade-offs between different treatment goals at the individual and population levels, Scire, J; Hozé, N; Uecker, H, 2019, number of citations within network = 1
 
-   112: Eradicating Metastatic Cancer and the Eco-Evolutionary Dynamics of Anthropocene Extinctions, Gatenby, RA; Artzy-Randrup, Y; Epstein, T; Reed, DR; Brown, JS, 2020, number of citations within network = 0
+   123: Resist or perish: Fate of a microbial population subjected to a periodic presence of antimicrobial, Marrec, L; Bitbol, AF, 2020, number of citations within network = 9
 
-   125: The impact of host metapopulation structure on short-term evolutionary rescue in the face of a novel pathogenic threat, Jiao, J; Gilchrist, MA; Fefferman, NH, 2020, number of citations within network = 1
+   147: Multi-step vs. single-step resistance evolution under different drugs, pharmacokinetics, and treatment regimens, Igler, C; Rolff, J; Regoes, R, 2021, number of citations within network = 8
 
-   132: Positive interactions within and between populations decrease the likelihood of evolutionary rescue, Goldberg, Y; Friedman, J, 2021, number of citations within network = 4
+   151: Drug-induced resistance evolution necessitates less aggressive treatment, Kuosmanen, T; Cairns, J; Noble, R; Beerenwinkel, N; Mononen, T; Mustonen, V, 2021, number of citations within network = 2
 
-   141: Host adaptation to novel pathogen introduction: Predicting conditions that promote evolutionary rescue, Golas, BD; Goodell, B; Webb, CT, 2021, number of citations within network = 1
+   166: Modeling Polygenic Antibiotic Resistance Evolution in Biofilms, Trubenova, B; Roizman, D; Rolff, J; Regoes, RR, 2022, number of citations within network = 0
 
-   161: Evolution of plasticity prevents postinvasion extinction of a native forb, Dostál, P, 2022, number of citations within network = 0
+   168: Sequential antibiotic therapy in the laboratory and in the patient, Nyhoegen, C; Uecker, H, 2023, number of citations within network = 4
 
-   171: Optimizing targeted gene flow to maximize local genetic diversity: when and how to act under various scenarios of environmental change, Smart, AS; Phillips, BL, 2023, number of citations within network = 0
+   173: Evolutionary rescue in a fluctuating environment: periodic versus quasi-periodic environmental changes, Marrec, L; Bank, C, 2023, number of citations within network = 2
 
-   181: Evolution of dispersal and the maintenance of fragmented metapopulations, Finand, B; Monnin, T; Loeuille, N, 2024, number of citations within network = 0
+   176: Statistical inference of the rates of cell proliferation and phenotypic switching in cancer, Gunnarsson, EB; Foo, J; Leder, K, 2023, number of citations within network = 0
 
-   184: Adaptive colonization across a parasitism-mutualism gradient, Mestre, A; Butlin, RK; Hortal, J; Rafajlovic, M, 2024, number of citations within network = 0
+   183: A stochastic analysis of the interplay between antibiotic dose, mode of action, and bacterial competition in the evolution of antibiotic resistance, Czuppon, P; Day, T; Débarre, F; Blanquart, F, 2023, number of citations within network = 6
 
-   185: Multi-scale effects of habitat loss and the role of trait evolution, Bagawade, R; van Benthem, KJ; Wittmann, MJ, 2024, number of citations within network = 0
+   203: The many dimensions of combination therapy: How to combine antibiotics to limit resistance evolution, Nyhoegen, C; Bonhoeffer, S; Uecker, H, 2024, number of citations within network = 4
 
-   186: Male harm suppresses female fitness, affecting the dynamics of adaptation and evolutionary rescue, Gomez-Llano, M; Faria, GS; Garcia-Roa, R; Noble, DWA; Carazo, P, 2024, number of citations within network = 0
+   207: Pathogen non-planktonic phases within the urinary tract impact early infection and resistance evolution, Raatz, M; de Azevedo-Lopes, A; Drabik, K; Traulsen, A; Waclaw, B, 2024, number of citations within network = 0
 
-   197: Resource-based modelling approach to studying evolutionary rescue, Oliveira, VM; Campos, PRA, 2024, number of citations within network = 0
+   214: Spatial structure facilitates evolutionary rescue by drug resistance, Fruet, C; Müller, EL; Loverdo, C; Bitbol, AF, 2025, number of citations within network = 0
 
-   221: WHEN DOES EVOLUTION BY NATURAL-SELECTION PREVENT EXTINCTION, GOMULKIEWICZ, R; HOLT, RD, 1995, number of citations within network = 102
+   217: Optimal antimicrobial dosing combinations when drug-resistance mutation rates differ, Delaney, O; Letten, AD; Engelstaedter, J, 2025, number of citations within network = 1
+
+   223: Drug mode of action and resource constraints modulate antimicrobial resistance evolution, Delaney, O; Brown, CRP; Letten, AD; Engelstäder, J, 2026, number of citations within network = 0
+
+   250: The population dynamics of antimicrobial chemotherapy, Lipsitch, M; Levin, BR, 1997, number of citations within network = 7
+
+   251: Virus dynamics and drug therapy, Bonhoeffer, S; May, RM; Shaw, GM; Nowak, MA, 1997, number of citations within network = 4
+
+   252: Evaluating treatment protocols to prevent antibiotic resistance, Bonhoeffer, S; Lipsitch, M; Levin, BR, 1997, number of citations within network = 6
 
 
 
 -------------------COMMUNITY 6----------------------
-   13: Evolutionary dynamics as a component of stage-structured matrix models:: An example using Trillium grandiflorum, Knight, TM; Barfield, M; Holt, RD, 2008, number of citations within network = 5
+   31: Delaying Selection for Fungicide Insensitivity by Mixing Fungicides at a Low and High Risk of Resistance Development: A Modeling Analysis, Hobbelen, PHF; Paveley, ND; van den Bosch, F, 2011, number of citations within network = 3
 
-   18: Genetics, adaptation, and invasion in harsh environments, Gomulkiewicz, R; Holt, RD; Barfield, M; Nuismer, SL, 2010, number of citations within network = 17
+   52: Can High-Risk Fungicides be Used in Mixtures Without Selecting for Fungicide Resistance?, Mikaberidze, A; McDonald, BA; Bonhoeffer, S, 2014, number of citations within network = 2
 
-   21: WHEN DO ADAPTIVE PLASTICITY AND GENETIC EVOLUTION PREVENT EXTINCTION OF A DENSITY-REGULATED POPULATION?, Chevin, LM; Lande, R, 2010, number of citations within network = 27
+   76: Emergence of Resistance to Fungicides: The Role of Fungicide Dose, Mikaberidze, A; Paveley, N; Bonhoeffer, S; van den Bosch, F, 2017, number of citations within network = 1
 
-   54: Density dependence and microevolution interactively determine effects of phenology mismatch on population dynamics, Reed, TE; Gienapp, P; Visser, ME, 2015, number of citations within network = 0
+   170: Optimal Resistance Management for Mixtures of High-Risk Fungicides: Robustness to the Initial Frequency of Resistance and Pathogen Sexual Reproduction, Taylor, NP; Cunniffe, NJ, 2023, number of citations within network = 0
 
-   65: Predicting evolutionary rescue via evolving plasticity in stochastic environments, Ashander, J; Chevin, LM; Baskett, ML, 2016, number of citations within network = 13
+   242: A NOVEL MATHEMATICAL APPROACH TO THE PREVENTION OF FUNGICIDE RESISTANCE, JOSEPOVITS, G; DOBROVOLSZKY, A, 1985, number of citations within network = 3
 
-   68: Evolutionary rescue in novel environments: towards improving predictability, Barfield, M; Holt, RD, 2016, number of citations within network = 11
-
-   84: The genetics of phenotypic plasticity. XV. Genetic assimilation, the Baldwin effect, and evolutionary rescue, Scheiner, SM; Barfield, M; Holt, RD, 2017, number of citations within network = 2
-
-   85: Stochastic Evolutionary Demography under a Fluctuating Optimum Phenotype, Chevin, LM; Cotto, O; Ashander, J, 2017, number of citations within network = 9
-
-   100: Optimal investment to enable evolutionary rescue, Ashander, J; Thompson, LC; Sanchirico, JN; Baskett, ML, 2019, number of citations within network = 1
-
-   109: Evolutionary Rescue in a Linearly Changing Environment: Limits on Predictability, Orive, ME; Holt, RD; Barfield, M, 2019, number of citations within network = 5
-
-   111: The genetics of phenotypic plasticity. XVII. Response to climate change, Scheiner, SM; Barfield, M; Holt, RD, 2020, number of citations within network = 3
-
-   124: Environmental fluctuations can promote evolutionary rescue in high-extinction-risk scenarios, Peniston, JH; Barfield, M; Gonzalez, A; Holt, RD, 2020, number of citations within network = 4
-
-   133: The Genetic Architecture of Fitness Drives Population Viability during Rapid Environmental Change, Kardos, M; Luikart, G, 2021, number of citations within network = 0
-
-   134: Environmental fluctuations dampen the effects of clonal reproduction on evolutionary rescue, Peniston, JH; Barfield, M; Holt, RD; Orive, ME, 2021, number of citations within network = 1
-
-   138: Is Evolution in Response to Extreme Events Good for Population Persistence?, Lyberger, KP; Osmond, MM; Schreiber, SJ, 2021, number of citations within network = 3
-
-   146: Avoiding extinction under nonlinear environmental change: models of evolutionary rescue with plasticity, Greenspoon, PB; Spencer, HG, 2021, number of citations within network = 1
-
-   164: Evolutionary History Mediates Population Response to Rapid Environmental Change through Within-Generational and Transgenerational Plasticity, Clement, DT; Neylan, IP; Roberts, NJ; Schreiber, SJ; Trimmer, PC; Sih, A, 2023, number of citations within network = 0
-
-   166: Evolutionary rescue in a fluctuating environment: periodic versus quasi-periodic environmental changes, Marrec, L; Bank, C, 2023, number of citations within network = 0
-
-   183: Evolutionary rescue under demographic and environmental stochasticity, Xu, KY; Vision, TJ; Servedio, MR, 2023, number of citations within network = 0
-
-   188: How density dependence, genetic erosion and the extinction vortex impact evolutionary rescue, Nordstrom, SW; Hufbauer, RA; Olazcuaga, L; Durkee, LF; Melbourne, BA, 2023, number of citations within network = 0
-
-   196: The genetics of phenotypic plasticity. XVIII. Developmental limits restrict adaptive plasticity, Khare, SB; Holt, RD; Scheiner, SM, 2024, number of citations within network = 0
-
-   207: The Baldwin Effect Reloaded: Intermediate Levels of Phenotypic Plasticity Favor Evolutionary Rescue, Lambert, A; Achaz, G; Le Rouzic, A; Loison, L, 2025, number of citations within network = 0
-
-   220: EVOLUTION AND EXTINCTION IN A CHANGING ENVIRONMENT - A QUANTITATIVE-GENETIC ANALYSIS, BURGER, R; LYNCH, M, 1995, number of citations within network = 65
+   244: INDEPENDENT ACTION OF FUNGICIDES AND ITS CONSEQUENCES FOR STRATEGIES TO RETARD THE EVOLUTION OF FUNGICIDE RESISTANCE, SHAW, MW, 1989, number of citations within network = 2
 
 
 
 -------------------COMMUNITY 7----------------------
-   29: Delaying Selection for Fungicide Insensitivity by Mixing Fungicides at a Low and High Risk of Resistance Development: A Modeling Analysis, Hobbelen, PHF; Paveley, ND; van den Bosch, F, 2011, number of citations within network = 3
+   5: Herbicides used in combination can reduce the probability of herbicide resistance in finite weed populations, Diggle, AJ; Neve, PB; Smith, FP, 2003, number of citations within network = 1
 
-   49: Can High-Risk Fungicides be Used in Mixtures Without Selecting for Fungicide Resistance?, Mikaberidze, A; McDonald, BA; Bonhoeffer, S, 2014, number of citations within network = 2
-
-   73: Emergence of Resistance to Fungicides: The Role of Fungicide Dose, Mikaberidze, A; Paveley, N; Bonhoeffer, S; van den Bosch, F, 2017, number of citations within network = 1
-
-   88: Optimal management strategy of insecticide resistance under various insect life histories: Heterogeneous timing of selection and interpatch dispersal, Sudo, M; Takahashi, D; Andow, DA; Suzuki, Y; Yamanaka, T, 2018, number of citations within network = 1
-
-   163: Optimal Resistance Management for Mixtures of High-Risk Fungicides: Robustness to the Initial Frequency of Resistance and Pathogen Sexual Reproduction, Taylor, NP; Cunniffe, NJ, 2023, number of citations within network = 0
-
-   205: Eco-evolutionary dynamics of anthelmintic resistance in soil-transmitted helminths, Patel, S; Lyberger, K; Vegvari, C; Gulbudak, H, 2025, number of citations within network = 0
-
-   211: DEVELOPMENT OF INSECTICIDE RESISTANCE IN PRESENCE OF MIGRATION, COMINS, HN, 1977, number of citations within network = 3
-
-   212: SUPPRESSION OF INSECTICIDE RESISTANCE BY ALTERATION OF GENE DOMINANCE AND MIGRATION, TAYLOR, CE; GEORGHIOU, GP, 1979, number of citations within network = 1
-
-   213: RATIONALE FOR THE USE OF ALTERNATING NON-CROSS-RESISTANT CHEMOTHERAPY, GOLDIE, JH; COLDMAN, AJ; GUDAUSKAS, GA, 1982, number of citations within network = 1
-
-   215: A NOVEL MATHEMATICAL APPROACH TO THE PREVENTION OF FUNGICIDE RESISTANCE, JOSEPOVITS, G; DOBROVOLSZKY, A, 1985, number of citations within network = 3
-
-   217: INDEPENDENT ACTION OF FUNGICIDES AND ITS CONSEQUENCES FOR STRATEGIES TO RETARD THE EVOLUTION OF FUNGICIDE RESISTANCE, SHAW, MW, 1989, number of citations within network = 2
+   182: Theoretical assessment of persistence and adaptation in weeds with complex life cycles, Lauenroth, D; Gokhale, CS, 2023, number of citations within network = 0
 
 
 
 -------------------COMMUNITY 8----------------------
-   39: ADAPTATION AND MALADAPTATION IN SELFING AND OUTCROSSING SPECIES: NEW MUTATIONS VERSUS STANDING VARIATION, Glémin, S; Ronfort, J, 2013, number of citations within network = 8
-
-   76: The double edged sword: The demographic consequences of the evolution of self-fertilization, Abu Awad, D; Billiard, S, 2017, number of citations within network = 3
-
-   97: Does the evolution of self-fertilization rescue populations or increase the risk of extinction?, Cheptou, PO, 2019, number of citations within network = 2
-
-   143: The eco-evolutionary dynamics of prior selfing rates promote coexistence without niche partitioning under conditions of reproductive interference, Katsuhara, KR; Tachiki, Y; Iritani, R; Ushimaru, A, 2021, number of citations within network = 1
-
-   151: The genetic basis of selfing rate evolution, Xu, KY, 2022, number of citations within network = 2
-
-   170: Population Rescue through an Increase in the Selfing Rate under Pollen Limitation: Plasticity versus Evolution, Xu, KY, 2023, number of citations within network = 0
-
-   179: A model for evolutionary rescue through plant mating system, Degottex-Fréy, F; Cheptou, PO, 2023, number of citations within network = 0
+   26: Spontaneous Emergence of Multiple Drug Resistance in Tuberculosis before and during Therapy, Colijn, C; Cohen, T; Ganesh, A; Murray, M, 2011, number of citations within network = 0
 
 
 
 -------------------COMMUNITY 9----------------------
-   5: Herbicides used in combination can reduce the probability of herbicide resistance in finite weed populations, Diggle, AJ; Neve, PB; Smith, FP, 2003, number of citations within network = 1
-
-   174: Theoretical assessment of persistence and adaptation in weeds with complex life cycles, Lauenroth, D; Gokhale, CS, 2023, number of citations within network = 0
+   63: Evolutionarily Driven Shifts in Communities with Intraguild Predation, Patel, S; Schreiber, SJ, 2015, number of citations within network = 0
 
 
 
 -------------------COMMUNITY 10----------------------
-   9: Evolution of resistance during clonal expansion, Iwasa, Y; Nowak, MA; Michor, F, 2006, number of citations within network = 0
+   85: Adaptive evolution of body size subject to indirect effect in trophic cascade system, Wang, X; Fan, M; Hao, L, 2017, number of citations within network = 0
 
 
 
 -------------------COMMUNITY 11----------------------
-   24: Spontaneous Emergence of Multiple Drug Resistance in Tuberculosis before and during Therapy, Colijn, C; Cohen, T; Ganesh, A; Murray, M, 2011, number of citations within network = 0
+   96: Coevolution Slows the Disassembly of Mutualistic Networks, Nuismer, SL; Week, B; Aizen, MA, 2018, number of citations within network = 0
 
 
 
 -------------------COMMUNITY 12----------------------
-   60: Evolutionarily Driven Shifts in Communities with Intraguild Predation, Patel, S; Schreiber, SJ, 2015, number of citations within network = 0
+   113: Alternative responses to rare selection events are differentially vulnerable to changes in the frequency, scope, and intensity of environmental extremes, Haaland, TR; Botero, CA, 2019, number of citations within network = 0
 
 
 
 -------------------COMMUNITY 13----------------------
-   81: Adaptive evolution of body size subject to indirect effect in trophic cascade system, Wang, X; Fan, M; Hao, L, 2017, number of citations within network = 0
+   125: Atlantic cod recovery from the Allee effect zone: contrasting ecological and evolutionary rescue, Kuparinen, A; Uusi-Heikkilä, S, 2020, number of citations within network = 0
 
 
 
 -------------------COMMUNITY 14----------------------
-   90: Coevolution Slows the Disassembly of Mutualistic Networks, Nuismer, SL; Week, B; Aizen, MA, 2018, number of citations within network = 0
+   127: Climate Change and Green Sea Turtle Sex Ratio-Preventing Possible Extinction, Blechschmidt, J; Wittmann, MJ; Blüml, C, 2020, number of citations within network = 0
 
 
 
 -------------------COMMUNITY 15----------------------
-   119: Climate Change and Green Sea Turtle Sex Ratio-Preventing Possible Extinction, Blechschmidt, J; Wittmann, MJ; Blüml, C, 2020, number of citations within network = 0
+   131: Determinants of optimal insecticide resistance management strategies, Helps, JC; Paveley, ND; White, S; van den Bosch, F, 2020, number of citations within network = 0
 
 
 
 -------------------COMMUNITY 16----------------------
-   123: Determinants of optimal insecticide resistance management strategies, Helps, JC; Paveley, ND; White, S; van den Bosch, F, 2020, number of citations within network = 0
+   198: Synergistic epistasis among cancer drivers can rescue early tumors from the accumulation of deleterious passengers, Alejandre, C; Calle-Espinosa, J; Iranzo, J, 2024, number of citations within network = 0
 
 
 
 -------------------COMMUNITY 17----------------------
-   190: Synergistic epistasis among cancer drivers can rescue early tumors from the accumulation of deleterious passengers, Alejandre, C; Calle-Espinosa, J; Iranzo, J, 2024, number of citations within network = 0
+   209: Evolutionary rescue effect can disappear under non-neutral mutations-a reply to Zhang et al. (2022), Hinsch, M; Robertson, DL; Silverman, E, 2024, number of citations within network = 0
 
 
 
 -------------------COMMUNITY 18----------------------
-   201: Evolutionary rescue effect can disappear under non-neutral mutations-a reply to Zhang et al. (2022), Hinsch, M; Robertson, DL; Silverman, E, 2024, number of citations within network = 0
-
-
-
--------------------COMMUNITY 19----------------------
-   214: A MODEL FOR THE RESISTANCE OF TUMOR-CELLS TO CANCER CHEMOTHERAPEUTIC-AGENTS, COLDMAN, AJ; GOLDIE, JH, 1983, number of citations within network = 0
+   213: Herbicidal interference: glyphosate drives both the ecology and evolution of plant-herbivore interactions, Zhang, GM; Baucom, RS, 2025, number of citations within network = 0
 
 
 

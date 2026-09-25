@@ -65,8 +65,10 @@ community_colors = viridis(cum_len_community_sorted/(n_data + 2)) ## colors on h
 ### The communities are displayed as colored stacked bars per year
 current_bottom = np.zeros(n_year-1)
 for j in range(n_community):
-    if (len_community_sorted[j]>1):
+    if (len_community_sorted[j]>2):
         plt.bar(list_year_complete[1:], cumulative_count_per_year_per_community[1:, j], bottom =  current_bottom, color = community_colors[j])
+    else:
+        plt.bar(list_year_complete[1:], cumulative_count_per_year_per_community[1:, j], bottom =  current_bottom, color = 'grey')
     current_bottom = current_bottom + cumulative_count_per_year_per_community[1:, j]
 
 ax.set_xticks(np.arange(1975, 2030, step = 5))
